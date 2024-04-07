@@ -4,7 +4,6 @@ def upper_text():
     print(text)
 
     """тут функция для преобразования первой буквы каждого слова в верхний регистр"""
-
     def capitalize_text():
         new_text = input().capitalize()
         print(text)
